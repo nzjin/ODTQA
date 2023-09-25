@@ -1,0 +1,1 @@
+The dataset and processing code for IJCNLP-AACL 2023 paper “Enhancing Open-Domain Table Question Answering via Syntax- and Structure-aware Dense Retrieval”, they are under preparation and will be publicly available upon the conference.
